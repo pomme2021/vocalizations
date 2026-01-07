@@ -25,3 +25,15 @@ source: Personal library
   <li>Upslur</li>
 </ol>
 
+<img width="1291" height="784" alt="Screenshot 2026-01-02 at 12 48 46 PM" src="https://github.com/user-attachments/assets/0a7095f4-5406-4ea7-a4cd-e7f28dcdc353" />
+
+
+Syllable-level duration (for first syllable)
+
+<ol>
+  <li>Temporal position → start time = 0.7530 s</li>
+  <li>Temporal position → end time = 1.0589 s</li>
+  <li>Duration → ~0.306 s</li>
+</ol>
+
+
