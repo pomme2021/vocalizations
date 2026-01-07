@@ -11,3 +11,20 @@ Bird of Choice: African Pygmy Kingfisher
 
 <img width="1270" height="677" alt="Screenshot 2026-01-02 at 3 05 40 AM" src="https://github.com/user-attachments/assets/8c5d774a-007a-4618-aa33-1acc9a379812" />
 
+
+<ol>
+  <li>African pygmy kingfisher</li>
+  <li>From 7-9 kHz</li>
+  <li>Downslur</li>
+</ol>
+
+
+<ol>
+  <li>Unknown Bird</li>
+  <li>From 3-5kHz</li>
+  <li>Upslur</li>
+</ol>
+
+
+
+
