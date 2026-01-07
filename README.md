@@ -13,6 +13,10 @@ Source: <a href="https://xeno-canto.org/719220">Xeno Canto</a>
 <img width="1270" height="677" alt="Screenshot 2026-01-02 at 3 05 40 AM" src="https://github.com/user-attachments/assets/8c5d774a-007a-4618-aa33-1acc9a379812" />
 source: Personal library 
 
+<img width="2048" height="1091" alt="african pygmy flycatcher" src="https://github.com/user-attachments/assets/8e308a8a-6c2d-4816-9333-5b81a5d66e7a" />
+
+
+
 <ol>
   <li>African pygmy kingfisher</li>
   <li>From 7-9 kHz</li>
@@ -36,5 +40,7 @@ Syllable-level duration (for first syllable)
   <li>Temporal position → end time = 1.0589 s</li>
   <li>Duration → ~0.306 s</li>
 </ol>
+
+
 
 
